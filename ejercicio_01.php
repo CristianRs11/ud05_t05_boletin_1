@@ -1,7 +1,7 @@
 <html>
 	<body>
 		<?php
-			echo "Cristian Rodrigues Calvo"
+			echo "<h1>Cristian Rodrigues Calvo</h1>"
 		?>
 	</body>
 </html>
