@@ -8,10 +8,10 @@
             $multiplicacion= $x * $y;
             $division= $x / $y;
             echo "
-            $x + $y = $suma
-            $x - $y = $resta
-            $x * $y = $multiplicacion
-            $x / $y = $divisio
+            $x + $y = $suma <br/>
+            $x - $y = $resta <br/>
+            $x * $y = $multiplicacion <br/>
+            $x / $y = $division <br/>
             "
 		?>
 	</body>
