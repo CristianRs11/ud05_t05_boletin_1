@@ -2,7 +2,7 @@
 	<body>
 		<?php
             for ($i=1; $i <=9 ; $i++) { 
-                for ($m=0; $m <= $i-1; $m++) { 
+                for ($m=1; $m <= $i; $m++) { 
                     echo "*";
                 };
                 echo "<br/>";
